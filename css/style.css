@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    margin-block-start: 1.5em;
+    margin-block-end: 1.5em;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: blue;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: 600;
+}
+
+ol {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+
+    padding-inline-start: 20px;
+}
+
+ul {
+    list-style-type: lower-latin;
+}
+
+li {
+    line-height: 20px;
+}
